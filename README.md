@@ -1,0 +1,1 @@
+Creating a login page is an essential skill for any web developer. With this project, you'll learn how to design a clean and user-friendly login interface using HTML and CSS. Additionally, you can explore JavaScript for form validation and user authentication in the future.
